@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3309106C1EEA977D002E8D9D /* EntradasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3309106B1EEA977D002E8D9D /* EntradasViewController.swift */; };
+		3309106E1EEAA0ED002E8D9D /* EntradasViewControllerDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3309106D1EEAA0ED002E8D9D /* EntradasViewControllerDetails.swift */; };
+		330910701EEAA199002E8D9D /* EntradasCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3309106F1EEAA199002E8D9D /* EntradasCell.swift */; };
+		3312F1141EE96D0A00A4947C /* swiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3312F1131EE96D0A00A4947C /* swiftyJSON.swift */; };
+		3333145C1ECDC2D2008D0D4F /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3333145B1ECDC2D2008D0D4F /* JuegosViewController.swift */; };
+		334BA2FC1EC09D8000597804 /* JuegoViewControllerDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334BA2FB1EC09D8000597804 /* JuegoViewControllerDetails.swift */; };
+		3360A2CA1EE7F34F00F627E9 /* JuegoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3360A2C91EE7F34F00F627E9 /* JuegoCell.swift */; };
+		336D88CC1EE57FC3008465D7 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336D88CB1EE57FC3008465D7 /* Util.swift */; };
+		336D88CE1EE57FD3008465D7 /* Cliente.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336D88CD1EE57FD3008465D7 /* Cliente.swift */; };
+		336D88D01EE57FE4008465D7 /* ResponseReceiver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336D88CF1EE57FE4008465D7 /* ResponseReceiver.swift */; };
+		336D88D31EE58195008465D7 /* Juego.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336D88D21EE58195008465D7 /* Juego.swift */; };
+		336D88D51EE5821D008465D7 /* Entradas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336D88D41EE5821D008465D7 /* Entradas.swift */; };
 		338AF3971EB208DC0054D51E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338AF3961EB208DC0054D51E /* AppDelegate.swift */; };
 		338AF3991EB208DC0054D51E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338AF3981EB208DC0054D51E /* ViewController.swift */; };
 		338AF39C1EB208DC0054D51E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 338AF39A1EB208DC0054D51E /* Main.storyboard */; };
@@ -15,6 +27,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3309106B1EEA977D002E8D9D /* EntradasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntradasViewController.swift; sourceTree = "<group>"; };
+		3309106D1EEAA0ED002E8D9D /* EntradasViewControllerDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntradasViewControllerDetails.swift; sourceTree = "<group>"; };
+		3309106F1EEAA199002E8D9D /* EntradasCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntradasCell.swift; sourceTree = "<group>"; };
+		3312F1131EE96D0A00A4947C /* swiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = swiftyJSON.swift; sourceTree = "<group>"; };
+		3333145B1ECDC2D2008D0D4F /* JuegosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
+		334BA2FB1EC09D8000597804 /* JuegoViewControllerDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuegoViewControllerDetails.swift; sourceTree = "<group>"; };
+		3360A2C91EE7F34F00F627E9 /* JuegoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuegoCell.swift; sourceTree = "<group>"; };
+		336D88CB1EE57FC3008465D7 /* Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
+		336D88CD1EE57FD3008465D7 /* Cliente.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cliente.swift; sourceTree = "<group>"; };
+		336D88CF1EE57FE4008465D7 /* ResponseReceiver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResponseReceiver.swift; sourceTree = "<group>"; };
+		336D88D21EE58195008465D7 /* Juego.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Juego.swift; sourceTree = "<group>"; };
+		336D88D41EE5821D008465D7 /* Entradas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Entradas.swift; sourceTree = "<group>"; };
 		338AF3931EB208DC0054D51E /* GestorJuego.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GestorJuego.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		338AF3961EB208DC0054D51E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		338AF3981EB208DC0054D51E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,9 +59,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3312F1121EE96CE600A4947C /* Json */ = {
+			isa = PBXGroup;
+			children = (
+				3312F1131EE96D0A00A4947C /* swiftyJSON.swift */,
+			);
+			name = Json;
+			sourceTree = "<group>";
+		};
+		336D88CA1EE57F80008465D7 /* rest */ = {
+			isa = PBXGroup;
+			children = (
+				336D88CB1EE57FC3008465D7 /* Util.swift */,
+				336D88CD1EE57FD3008465D7 /* Cliente.swift */,
+				336D88CF1EE57FE4008465D7 /* ResponseReceiver.swift */,
+			);
+			name = rest;
+			path = GestorJuego;
+			sourceTree = "<group>";
+		};
+		336D88D11EE5817B008465D7 /* Clases */ = {
+			isa = PBXGroup;
+			children = (
+				336D88D21EE58195008465D7 /* Juego.swift */,
+				336D88D41EE5821D008465D7 /* Entradas.swift */,
+			);
+			name = Clases;
+			path = ..;
+			sourceTree = "<group>";
+		};
 		338AF38A1EB208DC0054D51E = {
 			isa = PBXGroup;
 			children = (
+				3312F1121EE96CE600A4947C /* Json */,
+				336D88CA1EE57F80008465D7 /* rest */,
 				338AF3951EB208DC0054D51E /* GestorJuego */,
 				338AF3941EB208DC0054D51E /* Products */,
 			);
@@ -54,12 +109,19 @@
 		338AF3951EB208DC0054D51E /* GestorJuego */ = {
 			isa = PBXGroup;
 			children = (
+				3360A2C91EE7F34F00F627E9 /* JuegoCell.swift */,
+				3309106F1EEAA199002E8D9D /* EntradasCell.swift */,
 				338AF3961EB208DC0054D51E /* AppDelegate.swift */,
 				338AF3981EB208DC0054D51E /* ViewController.swift */,
-				338AF39A1EB208DC0054D51E /* Main.storyboard */,
+				334BA2FB1EC09D8000597804 /* JuegoViewControllerDetails.swift */,
+				3309106D1EEAA0ED002E8D9D /* EntradasViewControllerDetails.swift */,
 				338AF39D1EB208DC0054D51E /* Assets.xcassets */,
 				338AF39F1EB208DC0054D51E /* LaunchScreen.storyboard */,
 				338AF3A21EB208DC0054D51E /* Info.plist */,
+				3333145B1ECDC2D2008D0D4F /* JuegosViewController.swift */,
+				3309106B1EEA977D002E8D9D /* EntradasViewController.swift */,
+				338AF39A1EB208DC0054D51E /* Main.storyboard */,
+				336D88D11EE5817B008465D7 /* Clases */,
 			);
 			path = GestorJuego;
 			sourceTree = "<group>";
@@ -137,8 +199,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3333145C1ECDC2D2008D0D4F /* JuegosViewController.swift in Sources */,
+				330910701EEAA199002E8D9D /* EntradasCell.swift in Sources */,
+				3309106E1EEAA0ED002E8D9D /* EntradasViewControllerDetails.swift in Sources */,
+				336D88CE1EE57FD3008465D7 /* Cliente.swift in Sources */,
+				334BA2FC1EC09D8000597804 /* JuegoViewControllerDetails.swift in Sources */,
+				336D88CC1EE57FC3008465D7 /* Util.swift in Sources */,
+				336D88D01EE57FE4008465D7 /* ResponseReceiver.swift in Sources */,
+				3309106C1EEA977D002E8D9D /* EntradasViewController.swift in Sources */,
 				338AF3991EB208DC0054D51E /* ViewController.swift in Sources */,
+				3312F1141EE96D0A00A4947C /* swiftyJSON.swift in Sources */,
+				3360A2CA1EE7F34F00F627E9 /* JuegoCell.swift in Sources */,
 				338AF3971EB208DC0054D51E /* AppDelegate.swift in Sources */,
+				336D88D31EE58195008465D7 /* Juego.swift in Sources */,
+				336D88D51EE5821D008465D7 /* Entradas.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +376,7 @@
 				338AF3A71EB208DC0054D51E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
